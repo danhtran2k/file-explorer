@@ -3,7 +3,7 @@ Trần Công Danh - 17IT2- đề tài 19
 
 chức năng pase nhiều thư mục
 
-cách chạy code.
+#cách chạy code.
 
 mở trình IDE (netbean or eclipse).
 

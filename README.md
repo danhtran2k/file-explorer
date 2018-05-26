@@ -19,6 +19,6 @@ Cũng cửa sổ explorer đó, tì đến nơi cần dán thư mục vừa copp
 
 Mở thisPC tìm đến thư mục đã dán khi nãy để kiểm tra.
 
-Chức năng mở rộng ở đây là chức năng : coppy.
+
 
 đây là link hướng dẫn sử dụng: https://www.youtube.com/watch?v=BalAWRViD8o&feature=youtu.be
